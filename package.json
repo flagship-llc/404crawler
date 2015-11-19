@@ -1,0 +1,17 @@
+{
+  "name": "404crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "404crawl": "./lib/cli.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "simplecrawler": "^0.5.4"
+  }
+}
